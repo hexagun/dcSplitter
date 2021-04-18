@@ -14,5 +14,5 @@ There are jumpers which you can use to connect a particular supply. Two jumpers 
 
 ![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitter.jpg)
 
-![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitter.jpg)
+![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitterBack.jpg)
 
