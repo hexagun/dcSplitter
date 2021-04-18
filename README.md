@@ -12,7 +12,7 @@ The combinations that can be used are as:
 ## How To Use:
 There are jumpers which you can use to connect a particular supply. Two jumpers should be used for higher current applications.
 
-![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitterUse.jpg)
+![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitterUse.png)
 
 ![alt text](https://github.com/nvshinde/dcSplitter/blob/main/dcSplitter.jpg)
 
