@@ -7,3 +7,7 @@ The combinations that can be used are as:
 1. 12V - 5V
 2. 3.3V - 12V
 3. 3.3V - 5V
+4. 12V - 12V
+
+## How To Use:
+There are jumpers which you can use to connect a particular supply. Two jumpers should be used for higher current applications.
